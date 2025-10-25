@@ -76,10 +76,4 @@ An SVG rendering and widget library for Flutter, which allows painting and displ
 14. Build Runner<br />
 Tools to write binaries that run builders.
 15. Mockito<br />
-A mock framework inspired by Mockito.
-16. Bloc Test<br />
-A testing library which makes it easy to test blocs.
-17. JSON Serializable<br />
-Automatically generate code for converting to and from JSON by annotating Dart classes.
-18. Hive<br />
-Lightweight and blazing fast key-value database written in pure Dart.
+
